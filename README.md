@@ -31,7 +31,7 @@ _specify a short list of things that yet need to be done (unless you organize it
 
 ## Maintainer
 
-_Your Name with link to Github profile or email_
+* [Jan Galinski, Holisticon AG](https://github.com/jangalinski)
 
 
 ## License
