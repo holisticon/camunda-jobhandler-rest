@@ -1,5 +1,7 @@
 # Contributing Guide
 
+# TODO fill with correct data once the extension is hosted on github.com/camunda
+
 There are several ways in which you may contribute to this project.
 
 * [File issues](link-to-issue-tracker)

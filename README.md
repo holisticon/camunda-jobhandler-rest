@@ -1,9 +1,6 @@
-# _Name of Project_
+# camunda-jobhandler-rest
 
-_Short description of project_
-
-![Screenshot or code snippet](http://placehold.it/550x350&text=Image%20or%20code%20snippet%20if%20applicable)
-
+A rest-client jobhandler that allows firing arbitrary REST commands via the job executor queue.
 
 ## Get started
 
