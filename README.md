@@ -36,4 +36,4 @@ _Your Name with link to Github profile or email_
 
 ## License
 
-[Apache License, Version 2.0](./LICENSE)
+* [Apache License, Version 2.0](./LICENSE)
